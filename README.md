@@ -38,11 +38,11 @@ Pernah kebingungan menerjemahkan teks ke **banyak bahasa sekaligus**? Tool ini s
 | 普通话 | Deutsch | Français |
 
 ---
-
+<img width="381" height="175" alt="image" src="https://github.com/user-attachments/assets/714a35a4-c889-4708-bd15-0bf3759a6bb6" />
 ## 🚀 **Quick Start**
 
 ### 1️⃣ **Install package** (cuma 1 baris!)
 ```bash
 pip install deep-translator
 
-<img width="381" height="175" alt="image" src="https://github.com/user-attachments/assets/714a35a4-c889-4708-bd15-0bf3759a6bb6" />
+
