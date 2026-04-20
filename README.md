@@ -36,6 +36,10 @@
 
 \### Prerequisites
 
+<img width="381" height="175" alt="image" src="https://github.com/user-attachments/assets/714a35a4-c889-4708-bd15-0bf3759a6bb6" />
+
+
+
 ```bash
 
 Python 3.7 or higher
